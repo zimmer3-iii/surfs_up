@@ -11,9 +11,9 @@
 ## Resources
 - Data Source: hawaii.sqlite
 - Software: Python 3.7.6, Jupyter Notebook, anaconda 1.9.0
-The analysis was split into two parts:
-- Precipitation: Code can be found in [climate_analysis](https://github.com/zimmer3-iii/surfs_up/blob/main/climate_analysis.ipynb)
-- Temperature: Code can be found in [SurfsUp_Challenge](https://github.com/zimmer3-iii/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+- The analysis was split into two parts:
+	- Precipitation: Code can be found in [climate_analysis](https://github.com/zimmer3-iii/surfs_up/blob/main/climate_analysis.ipynb)
+	- Temperature: Code can be found in [SurfsUp_Challenge](https://github.com/zimmer3-iii/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 	
 ## Results
 
