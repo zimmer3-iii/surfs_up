@@ -4,17 +4,18 @@
 
 ## Overview of Project
 	This project analyzes data from mulitple weather stations from the island of Oahu. 
-	The main focus was to look at precipitation and temperature records to see if Oahu would be a good place to open a surf shop.
+	The main focus was to look at precipitation and temperature records to see if
+	Oahu would be a good place to open a surf shop.
 
 
 ## Resources
 - Data Source: hawaii.sqlite
 - Software: Python 3.7.6, Jupyter Notebook, anaconda 1.9.0
-	
-## Results
 The analysis was split into two parts:
 - Precipitation: Code can be found in [climate_analysis](https://github.com/zimmer3-iii/surfs_up/blob/main/climate_analysis.ipynb)
 - Temperature: Code can be found in [SurfsUp_Challenge](https://github.com/zimmer3-iii/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+	
+## Results
 
 	The precipitation analysis focused on the data from the most active weather station 'USC00519281'. 
 	Looking at the data from this weather station from 8-23-2016 to 8-23-2017,
