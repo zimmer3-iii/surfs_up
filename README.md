@@ -13,8 +13,8 @@
 	
 ## Results
 The analysis was split into two parts:
-	- Precipitation: Code can be found in [climate_analysis](https://github.com/zimmer3-iii/surfs_up/blob/main/climate_analysis.ipynb)
-	- Temperature: Code can be found in [SurfsUp_Challenge](https://github.com/zimmer3-iii/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+- Precipitation: Code can be found in [climate_analysis](https://github.com/zimmer3-iii/surfs_up/blob/main/climate_analysis.ipynb)
+- Temperature: Code can be found in [SurfsUp_Challenge](https://github.com/zimmer3-iii/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 	The precipitation analysis focused on the data from the most active weather station 'USC00519281'. 
 	Looking at the data from this weather station from 8-23-2016 to 8-23-2017,
